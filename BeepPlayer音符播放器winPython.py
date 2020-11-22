@@ -28,7 +28,7 @@ while lenword < len(word):
     elif word[lenword] == str("+") and word[lenword+1] == str("2"):
         winsound.Beep(587,250)
         lenword=lenword+1
-    elif word[lenword] == str("+"111) and word[lenword+1] == str("3"):
+    elif word[lenword] == str("+") and word[lenword+1] == str("3"):
         winsound.Beep(659,250)
         lenword=lenword+1
     elif word[lenword] == str("+") and word[lenword+1] == str("4"):
